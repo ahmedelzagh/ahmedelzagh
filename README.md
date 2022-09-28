@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ahmed Elzagh</h1>
 <h3 align="center">Computer Engineering student, and A Front End Developer</h3>
 
-- 🔭 I’m currently Studying [Computer Engineering at](High institute of Engineering and Technology, El Behira, Egypt)
+- 🔭 I’m currently Studying Computer Engineering at [High institute of Engineering and Technology, El Behira, Egypt](https://www.linkedin.com/company/enghighinstitute/about/)
 
 - 🌱 I’m currently learning **GraphQL, NextJS**
 
