@@ -11,6 +11,12 @@
 
 - 📫 How to reach me **contact@aelzagh.com**
 
+Resources on GitHub
+___
+[Cheat-Sheets](https://github.com/ahmedelzagh/cheat-sheets) - Command Reference for various tools and technologies
+[Boilerplates](https://github.com/ahmedelzagh/Boilerplates) - Templates for various projects like Docker, Ansible, etc
+[Dotfiles](https://github.com/ahmedelzagh/Dotfiles) - My personal configuration files on Linux and Windows
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ahmedelzagh_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ahmedelzagh_" height="30" width="40" /></a>
