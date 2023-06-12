@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently Studying Computer Engineering at [High institute of Engineering and Technology, El Behira, Egypt](https://www.linkedin.com/company/enghighinstitute/about/)
 
-- 🌱 I’m currently learning **GraphQL, NextJS**
+- 🌱 I’m currently learning **NextJS, ReactJS and Ansible**
 
-- ⚡My area of interests are **Web Development, IT, and Software Engineering.**
+- ⚡My area of interests are **Web Development, DevOps, and Software Engineering.**
 
 - 👨‍💻 All of my projects are available at [https://aelzagh.com/](https://aelzagh.com/)
 
