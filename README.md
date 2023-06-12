@@ -13,9 +13,9 @@
 
 Resources on GitHub
 ___
-[Cheat-Sheets](https://github.com/ahmedelzagh/cheat-sheets) - Command Reference for various tools and technologies
-[Boilerplates](https://github.com/ahmedelzagh/Boilerplates) - Templates for various projects like Docker, Ansible, etc
-[Dotfiles](https://github.com/ahmedelzagh/Dotfiles) - My personal configuration files on Linux and Windows
+- [Cheat-Sheets](https://github.com/ahmedelzagh/cheat-sheets) - Command Reference for various tools and technologies.
+- [Boilerplates](https://github.com/ahmedelzagh/Boilerplates) - Templates for various projects like Docker, Ansible, etc.
+- [Dotfiles](https://github.com/ahmedelzagh/Dotfiles) - My personal configuration files on Linux and Windows.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
