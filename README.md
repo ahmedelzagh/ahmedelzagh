@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Ahmed Elzagh</h1>
 <h3 align="center">Computer Engineering student, and A Front End Developer</h3>
 
-- 🔭 I’m currently Studying Computer Engineering at [High institute of Engineering and Technology, El Behira, Egypt](https://www.linkedin.com/company/enghighinstitute/about/)
+- 🔭 I’m currently Studying Computer Engineering at [Behira Higher institute of Engineering and Technology, Egypt](https://www.linkedin.com/company/enghighinstitute/about/)
 
 - 🌱 I’m currently learning **NextJS, ReactJS and Ansible**
 
 - ⚡My area of interests are **Web Development, DevOps, and Software Engineering.**
 
-- 👨‍💻 All of my projects are available at [https://aelzagh.com/](https://aelzagh.com/)
+- 👨‍💻 All of my projects are available at [https://elzagh.live/](https://elzagh.live/)
 
-- 📫 How to reach me **contact@aelzagh.com**
+- 📫 How to reach me **ahmed@elzagh.live**
 
 ## Resources on GitHub
 - [Cheat-Sheets](https://github.com/ahmedelzagh/cheat-sheets) - Command Reference for various tools and technologies.
